@@ -1,1 +1,1 @@
-Test 123
+Adafruit Huzzah ESP8266-12E Rollerblind control
